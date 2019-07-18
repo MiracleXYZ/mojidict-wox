@@ -1,0 +1,12 @@
+{
+    "ID": "C717918391213811E407AF8C7BE12225",
+    "ActionKeyword": "moji",                     
+    "Name": "mojidict",                              
+    "Description": "mojidict日语词典第三方插件",    
+    "Author": "MiracleXYZ",                     
+    "Version": "0.0.1",                         
+    "Language": "python",                       
+    "Website": "http://miraclexyz.github.io",         
+    "IcoPath": "assets/moji.jpg",      
+    "ExecuteFileName": "main.py"        
+}
